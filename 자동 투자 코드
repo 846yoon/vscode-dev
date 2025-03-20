@@ -405,6 +405,7 @@ except Exception as e:
 
 
 ###매매 횟수를 4번으로 제한한 코드####
+근데 중요한 익절 손절가가 없음!!!!!!!!!!!!! 절대 복붙하지 말것
 import requests
 import json
 import datetime
